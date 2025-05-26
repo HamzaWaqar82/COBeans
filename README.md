@@ -2,13 +2,11 @@
 
 Welcome to **COBeans**, a beautifully designed coffee-themed landing page created with a focus on simplicity, warmth, and user engagement. This responsive webpage is perfect for showcasing a coffee brand, café, or eCommerce coffee shop.
 
-![Screenshot](Full_ScreenShot.png)
+![Screenshot](/Images/Full_ScreenShot.png)
 
 ## 🚀 Live Demo
 
-Check out the live version here: [COBeans on GitHub Pages](https://your-github-username.github.io/your-repo-name)
-
-> *(Replace with your actual GitHub Pages URL once deployed)*
+Check out the live version here: [COBeans on GitHub Pages](https://hamzawaqar82.github.io/COBeans/)
 
 ---
 
