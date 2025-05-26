@@ -2,7 +2,7 @@
 
 Welcome to **COBeans**, a beautifully designed coffee-themed landing page created with a focus on simplicity, warmth, and user engagement. This responsive webpage is perfect for showcasing a coffee brand, café, or eCommerce coffee shop.
 
-![Screenshot](/Images/Full_ScreenShot.png)
+![Screenshot](./Images/Full_ScreenShot.png)
 
 ## 🚀 Live Demo
 
