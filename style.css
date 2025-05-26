@@ -82,7 +82,7 @@ li a:hover{
 
 /* Header Starts here */
 header{
-    background-image: url(/Images/jakub-dziubak-XtUd5SiX464-unsplash.jpg);
+    background-image: url(../Images/jakub-dziubak-XtUd5SiX464-unsplash.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -151,7 +151,7 @@ header{
     width: 600px;
     position: absolute;
     left: 5rem;
-    background: url(/Images/janko-ferlic-h9Iq22JJlGk-unsplash.jpg);
+    background: url(../Images/janko-ferlic-h9Iq22JJlGk-unsplash.jpg);
     background-position: center;
     background-size: cover;
     transition: box-shadow 0.5s;
@@ -254,19 +254,19 @@ header{
 }
 
 .img-one{
-  background: url(/Images/1.jpg);
+  background: url(../Images/1.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .img-two{
-  background: url(/Images/2.jpg);
+  background: url(../Images/2.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .img-three{
-  background: url(/Images/3.jpg);
+  background: url(../Images/3.jpg);
   background-position: center;
   background-size: cover;
 }
